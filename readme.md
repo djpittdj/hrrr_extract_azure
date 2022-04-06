@@ -1,0 +1,1 @@
+Extract weather variables from HRRR GRIB2 data from NOAA container on Azure and save them as CSV files to a container
